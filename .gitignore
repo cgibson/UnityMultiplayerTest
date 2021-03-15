@@ -1,3 +1,22 @@
+# Ignore mirror code
+Assets/Mirror/
+kcp2k.csproj
+Mirror*.csproj
+Telepathy*.csproj
+SimpleWebTransport.csproj
+WeaverTestExtraAssembly.csproj
+
+# Visual Studio Code Ignored Files/Folders
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
